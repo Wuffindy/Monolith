@@ -14783,3 +14783,16 @@ Entries:
   id: 1639
   time: '2025-12-08T21:04:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2763
+- author: NazrinNya
+  changes:
+    - type: Remove
+      message: >-
+        SCAF suit, soldat and mercenary modsuits were removed from loadouts.
+        SCAF suit storage is replaced with mercenary suit storage on all maps.
+    - type: Tweak
+      message: Mercenary modsuit migrated to T3 research.
+    - type: Tweak
+      message: Added civilian mod/hardsuits to loadouts.
+  id: 1640
+  time: '2025-12-09T12:27:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2771
