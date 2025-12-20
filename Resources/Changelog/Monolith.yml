@@ -15089,3 +15089,12 @@ Entries:
   id: 1672
   time: '2025-12-20T18:36:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2715
+- author: Helicaste
+  changes:
+    - type: Add
+      message: >-
+        Added standard PDV ballistic turret for future mapping. They didn't have
+        one.
+  id: 1673
+  time: '2025-12-20T18:56:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2820
