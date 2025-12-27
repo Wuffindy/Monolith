@@ -15217,3 +15217,20 @@ Entries:
   id: 1688
   time: '2025-12-27T21:06:57.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2856
+- author: Helicaste
+  changes:
+    - type: Tweak
+      message: Vaults and Vgroids can now spawn up to 5km out.
+    - type: Tweak
+      message: Vaults no longer require a Colonel to spawn.
+    - type: Tweak
+      message: >-
+        Bluespace crates occur more frequently. By extension there will be fewer
+        solar flares. 
+    - type: Tweak
+      message: >-
+        Increased the number of smuggling hints sent out to ships. Happy
+        hunting.
+  id: 1689
+  time: '2025-12-27T21:08:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2848
