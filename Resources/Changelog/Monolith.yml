@@ -15549,3 +15549,10 @@ Entries:
   id: 1725
   time: '2026-01-01T15:08:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2918
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Added new scrapyard salvaging vessel - Betelgeuse.
+  id: 1726
+  time: '2026-01-01T15:27:11.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2875
