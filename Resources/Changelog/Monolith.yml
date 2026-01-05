@@ -15835,3 +15835,10 @@ Entries:
   id: 1756
   time: '2026-01-05T18:05:53.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2951
+- author: Ilya246
+  changes:
+    - type: Add
+      message: Shipguns now have recoil.
+  id: 1757
+  time: '2026-01-05T18:24:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2947
