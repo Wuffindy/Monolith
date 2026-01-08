@@ -15894,3 +15894,16 @@ Entries:
   id: 1763
   time: '2026-01-08T20:18:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2971
+- author: Ilya246
+  changes:
+    - type: Add
+      message: >-
+        Added ship repair tool. You can buy it from engivend and use it to
+        repair ships to spec from basically any damage. Mind the charge usage.
+    - type: Add
+      message: Borgs now get a recharging ship repair tool in the RCD module.
+    - type: Fix
+      message: RCD should now less often refuse to work on moving ships.
+  id: 1764
+  time: '2026-01-08T20:24:43.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2968
