@@ -16426,3 +16426,10 @@ Entries:
   id: 1818
   time: '2026-01-20T12:04:50.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3081
+- author: Honestly101
+  changes:
+    - type: Add
+      message: Added new textures for faction cyborg modules and action menu icons.
+  id: 1819
+  time: '2026-01-20T12:16:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3001
