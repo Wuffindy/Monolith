@@ -16492,3 +16492,10 @@ Entries:
   id: 1826
   time: '2026-01-22T05:30:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3103
+- author: kotobdev
+  changes:
+    - type: Add
+      message: You can now execute people, including yourself, with firearms!
+  id: 1827
+  time: '2026-01-22T07:10:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3072
