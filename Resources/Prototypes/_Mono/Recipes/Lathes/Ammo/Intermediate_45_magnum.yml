@@ -54,7 +54,7 @@
 
 - type: latheRecipe
   parent: BaseAmmoPlasteelAPPistolCaliberPistolHighCapacityMagazineRecipe
-  id: Magazine45_magnumPistolPlasteelAP
+  id: Magazine45_magnumPistolHighCapacityPlasteelAP
   result: Magazine45_magnumPistolHighCapacityPlasteelAP
 
 - type: latheRecipe
@@ -91,7 +91,6 @@
   parent: BaseAmmoRIPPistolCaliberPistolHighCapacityMagazineRecipe
   id: Magazine45_magnumPistolHighCapacityRIP
   result: Magazine45_magnumPistolHighCapacityRIP
-
 
 #Speedloaders
 

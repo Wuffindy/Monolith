@@ -54,7 +54,7 @@
 
 - type: latheRecipe
   parent: BaseAmmoPlasteelAPPistolCaliberPistolHighCapacityMagazineRecipe
-  id: Magazine45_ACPPistolPlasteelAP
+  id: Magazine45_ACPPistolHighCapacityPlasteelAP
   result: Magazine45_ACPPistolHighCapacityPlasteelAP
 
 - type: latheRecipe

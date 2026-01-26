@@ -54,7 +54,7 @@
 
 - type: latheRecipe
   parent: BaseAmmoPlasteelAPPistolCaliberPistolHighCapacityMagazineRecipe
-  id: Magazine9x19mmPistolPlasteelAP
+  id: Magazine9x19mmHighCapacityPistolPlasteelAP
   result: Magazine9x19mmPistolHighCapacityPlasteelAP
 
 - type: latheRecipe
