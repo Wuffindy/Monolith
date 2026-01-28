@@ -188,7 +188,7 @@
   - type: Item
     size: Small
     shape:
-    - 0,0,1,0
+    - 0,0,2,0
   - type: ContainerContainer
     containers:
       ballistic-ammo: !type:Container
